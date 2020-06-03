@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "David Ryan"
-  avatar : "/assets/images/ERI-headshot.jpg"
+  avatar : "/assets/images/ERI-head.jpg"
   bio    : "Biomedical Engineer with a passion for using data to solve complex problems"
   links:
 #     - label: "Website"
