@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "David Ryan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Biomedical Engineer with a passion for using data to solve complex problems"
+  bio    : "Biomedical Engineer with a passion for using data to solve complex problems."
   links:
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
