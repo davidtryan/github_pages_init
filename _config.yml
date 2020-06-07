@@ -34,9 +34,9 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Jekyll configuration
 # highlighter: pygments
-# sass:
-#   sass_dir: _sass
-#   style: compressed
+sass:
+  sass_dir: _sass
+  style: compressed
 # gems:
 #   - jekyll-sitemap
   
