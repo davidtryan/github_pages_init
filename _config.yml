@@ -57,6 +57,18 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+
+# Jekyll configuration
+# permalink:   /:categories/:title/
+# markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  
+
 author:
   name   : "David Ryan"
   avatar : "/assets/images/ERI-headshot.jpg"
