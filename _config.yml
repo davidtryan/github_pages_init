@@ -36,10 +36,11 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # highlighter: pygments
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 # gems:
 #   - jekyll-sitemap
-  
+# Sass/SCSS
+
 
 include:
   - _pages
